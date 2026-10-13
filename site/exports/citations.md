@@ -2353,3 +2353,808 @@ BOT transfer/renewal request due Oct1,2017 for fall; Feb13,2018 for spring
 Anchor: exact; review: pending; scope: direct_bot.
 
 Internal link: /texas-b-on-time-evidence-explorer/?evidence=uttyler-2017-bot-transfer-request
+
+## wide-htu-bot-continued-eligibility-2020-21 · Huston-Tillotson University · 2020-21
+
+The 2020-21 bulletin prints that BOT was available to certain Texas Grant-eligible students and that continued eligibility is based on Texas Grant provisions. It gives no review date or specific criteria. This wording alone does not confirm that new BOT awards were active in 2020-21 or that Texas Grant renewal provisions controlled in practice.
+
+> Continued eligibility is based on the requirements set forth in the Texas Grant provisions.
+
+[Undergraduate Bulletin 2020-2021: Volume VI](https://htu.edu/wp-content/uploads/2025/08/HT_Undergraduate_Bulletin_2020-20212.pdf#page=27) · PDF page 27 · printed page 16 · retrieved 2026-10-13T04:00:00Z
+
+Anchor: exact; review: pending; scope: direct_bot.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-htu-bot-continued-eligibility-2020-21
+
+## wide-lee2009-alternate-annual-review · Lee College · 2009-10
+
+Lee’s 2009–10 general state/federal aid policy describes annual financial-aid review.
+
+> The records of all students who received state or federal fi- nancial aid are reviewed by the Financial Aid Office annually.
+
+[Lee College 2009–10 catalog financial-aid section](https://web.archive.org/web/20240718125913id_/https://www.lee.edu/lc-main/catalog/pdf/2009-10/2009-10-catalog-financial-aid.pdf#page=2) · PDF page 2 · printed page 26 · retrieved 2026-10-13T03:55:02.346055+00:00
+
+Anchor: exact; review: pending; scope: general_institutional.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-lee2009-alternate-annual-review
+
+## wide-lee2010-archived-annual-review · Lee College · 2010-11
+
+Lee’s 2010-11 general state/federal financial-aid policy describes annual review.
+
+> The records of all students who received state or federal financial aid are reviewed by the Financial Aid Offi ce annually.
+
+[Lee College 2010-11 catalog: admissions and financial aid](https://web.archive.org/web/20240227003228id_/https://www.lee.edu/lc-main/catalog/pdf/2010-11/leecatalog-admissions.pdf#page=21) · PDF page 21 · printed page 26 · retrieved 2026-10-13T03:52:58.879734+00:00
+
+Anchor: exact; review: pending; scope: general_institutional.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-lee2010-archived-annual-review
+
+## wide-lee2011-general-review-frequency · Lee College · 2011-12
+
+Lee’s general state/federal financial-aid policy requires review at least annually. New students in their first two terms and certificate students are evaluated at each term end.
+
+> The records of all students who received state or federal financial aid are reviewed by the Financial Aid Office at least annually. New students in their first two terms and certificate students will be evaluated at the end of each term.
+
+[Lee College Catalog 2011-12](https://www.lee.edu/lc-main/catalog/pdf/2011-12/catalog-2011-2012.pdf#page=28) · PDF page 28 · printed page 27 · retrieved 2026-10-13T03:50:28.979486+00:00
+
+Anchor: exact; review: pending; scope: general_institutional.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-lee2011-general-review-frequency
+
+## wide-lee2012-general-review-frequency · Lee College · 2012-13
+
+Lee’s general state/federal financial-aid policy requires review at least annually.
+
+> The records of all students who received state or federal fnancial aid are reviewed by the Financial Aid Office at least annually.
+
+[Lee College Catalog 2012-13](https://www.lee.edu/lc-main/catalog/pdf/catalogs/catalog-2012-2013.pdf#page=29) · PDF page 29 · printed page 27 · retrieved 2026-10-13T03:50:29.545437+00:00
+
+Anchor: exact; review: pending; scope: general_institutional.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-lee2012-general-review-frequency
+
+## wide-msu-bot-renewal-only-2017-18 · Midwestern State University · 2017-18
+
+MSU’s 2017-18 student handbook states BOT awards were limited to renewal students who had previously received BOT; the sentence also requires filing the FAFSA. This identifies the prior-borrower restriction but does not specify annual review timing or its GPA/credit checks.
+
+> TEXAS B-On-Time Loan: Need must be established by filing the FAFSA and awarded to renewal students only who have had BOT previously.
+
+[Midwestern State University Student Handbook 2017-18](https://msutexas.edu/student-life/involvement/_assets/files/student-handbook-2017-18.pdf#page=36) · PDF page 36 · printed page 35 · retrieved 2026-10-13T03:50:00Z
+
+Anchor: exact; review: pending; scope: direct_bot.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-msu-bot-renewal-only-2017-18
+
+## wide-pvamu-bot-institution-offer-route · Prairie View A&M University · 2012-13
+
+PVAMU states its financial-aid office determines BOT eligibility and, if the loan is offered, directs the student to complete an online application/promissory note. The catalog does not specify selection criteria or notice timing.
+
+> Your institution's financial aid office will determine if you are eligible. In many cases the amount of federal aid for which the student is eligible must be deducted from the cost of attendance in determining the BOT loan amount. If this loan is offered to you, the financial aid office will instruct you to complete an application/promissory note on-line.
+
+[Prairie View A&M University 117th General Catalog](https://www.pvamu.edu/academicaffairs/wp-content/uploads/sites/20/2013-Undergraduate-Catalog-Final-826.pdf#page=51) · PDF page 51 · printed page 47 · retrieved 2026-10-13T03:31:42Z
+
+Anchor: exact; review: pending; scope: direct_bot.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-pvamu-bot-institution-offer-route
+
+## wide-pvamu-bot-renewal-rule · Prairie View A&M University · 2012-13
+
+Renewal students must complete at least 75% of attempted semester hours in the most recent academic year and earn at least a 2.5 cumulative GPA on prior higher-education coursework.
+
+> complete at least 75% of the semester credit hours attempted in the most recent academic year and have a cumulative GPA of at least a 2.5 on a 4.0 scale (or the equivalent) on all course work previously attempted at institutions of higher education.
+
+[Prairie View A&M University 117th General Catalog](https://www.pvamu.edu/academicaffairs/wp-content/uploads/sites/20/2013-Undergraduate-Catalog-Final-826.pdf#page=52) · PDF page 52 · printed page 48 · retrieved 2026-10-13T03:31:42Z
+
+Anchor: exact; review: pending; scope: direct_bot.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-pvamu-bot-renewal-rule
+
+## wide-sao-2009-forgiveness-records · THECB · FY2009 audit; general registrar forgiveness workflow
+
+The audit’s forgiveness-process description identifies student and registrar documents that support a later loan-forgiveness determination: enrollment and graduation dates, expected program duration, required and attempted hours, cumulative graduation GPA, degree, high-school graduation date, registrar signature, and official transcript forwarded to THECB. SFA and UTSA did not retain copies locally; the Board supplied copies.
+
+> A student completes a BOT loan forgiveness eligibility form. The registrar of the institution from which the student graduated then certifies that the student is qualified for loan forgiveness and documents the following information for that student:
+
+[An Audit Report on Selected State-funded Student Financial Aid Programs at Seven Higher Education Institutions and the Higher Education Coordinating Board](https://sao.texas.gov/Reports/Main/10-015.pdf#page=10) · PDF page 10 · printed page 5 · retrieved 2026-10-13T03:36:09+00:00
+
+Anchor: exact; review: pending; scope: direct_bot.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-sao-2009-forgiveness-records
+
+## wide-sao-2009-institution-roster · THECB · FY2006–FY2009
+
+Appendix 3 lists BOT forgiveness amounts for public and private higher education institutions and colleges across FY2006–FY2009; table rows with positive totals identify institutions with at least one reported forgiveness in the period. It includes private universities, community/junior colleges, and state/technical colleges. This is a useful historical actual-participation proxy but not a complete allocation/award roster.
+
+> The total amount forgiven for public and private higher education institutions and colleges was $40,536,829 for fiscal year 2006 through fiscal year 2009 (see Table 12).
+
+[An Audit Report on Selected State-funded Student Financial Aid Programs at Seven Higher Education Institutions and the Higher Education Coordinating Board](https://sao.texas.gov/Reports/Main/10-015.pdf#page=49) · PDF page 49 · printed page 44–46 · retrieved 2026-10-13T03:36:09+00:00
+
+Anchor: exact; review: pending; scope: statewide.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-sao-2009-institution-roster
+
+## wide-sao-2009-status-review · THECB · FY2009
+
+The audit reports that campus reviewers should account for status changes during spring and fall award/disbursement, especially prior baccalaureate graduation and final high-school transcripts. Auditors checked the entire BOT recipient population for reasonableness and sampled FY2009 recipient records against eligibility rules.
+
+> Institutions should ensure that student status changes, such as graduation with a baccalaureate degree or final high school transcripts, are considered when awarding and disbursing loans during the spring and fall semesters.
+
+[An Audit Report on Selected State-funded Student Financial Aid Programs at Seven Higher Education Institutions and the Higher Education Coordinating Board](https://sao.texas.gov/Reports/Main/10-015.pdf#page=9) · PDF page 9 · printed page 4 · retrieved 2026-10-13T03:36:09+00:00
+
+Anchor: exact; review: pending; scope: statewide.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-sao-2009-status-review
+
+## wide-sao-2009-tamiu-bot-curriculum-eligibility-controls · THECB · FY2009–FY2010
+
+TAMIU’s management response describes a BANNER rule requiring the high-school curriculum check before BOT funds are offered, and says a system-generated report would provide an additional eligibility check; its financial-aid director said implementation would occur before Spring 2010. The source does not establish auditor-observed operation of these controls.
+
+> The system requires the necessary high school curriculum be checked off in order for the BOT funds to be offered to a student. This should ensure that students who are being offered BOT funds meet all program requirements, however, a new, system-generated report will be reviewed as an additional check to further confirm student eligibility.
+
+[An Audit Report on Selected State-funded Student Financial Aid Programs at Seven Higher Education Institutions and the Higher Education Coordinating Board](https://sao.texas.gov/Reports/Main/10-015.pdf#page=16) · PDF page 16 · printed page 11 · retrieved 2026-10-13T03:36:09+00:00
+
+Anchor: exact; review: pending; scope: direct_bot.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-sao-2009-tamiu-bot-curriculum-eligibility-controls
+
+## wide-sao-2009-utsa-bot-setaside-guidelines-response · THECB · FY2009
+
+UTSA’s management response says it formally published its BOT tuition-set-aside calculation procedure in Financial Management Operational Guidelines section 3.3; the responsible-person entry following this response gives an implementation date of August 12, 2009. This is a management-response assertion, not a separate auditor test of implementation.
+
+> Section C.2 specifically addresses the BOT tuition set-aside amount calculation.
+
+[An Audit Report on Selected State-funded Student Financial Aid Programs at Seven Higher Education Institutions and the Higher Education Coordinating Board](https://sao.texas.gov/Reports/Main/10-015.pdf#page=15) · PDF page 15 · printed page 10 · retrieved 2026-10-13T03:36:09+00:00
+
+Anchor: exact; review: pending; scope: direct_bot.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-sao-2009-utsa-bot-setaside-guidelines-response
+
+## wide-sao-2009-utsa-graduation-disbursement-hold · THECB · FY2009
+
+In its management response, UTSA said it had modified BOT disbursement rules to check the Registrar degree screen and hold disbursement for students who had applied to graduate; the stated workflow blocked payment if the student graduated and routed cases for manual review. This is management-reported practice, not independent auditor verification of operation.
+
+> UTSA has modified the disbursement rule to check SHADEGR (Registrar degree screen) before disbursing BOT loans. If a student has graduated, the BOT loan will not disburse. We have also created a disbursement hold on all students who have applied for graduation.
+
+[An Audit Report on Selected State-funded Student Financial Aid Programs at Seven Higher Education Institutions and the Higher Education Coordinating Board](https://sao.texas.gov/Reports/Main/10-015.pdf#page=14) · PDF page 14 · printed page 9 · retrieved 2026-10-13T03:36:09+00:00
+
+Anchor: exact; review: pending; scope: direct_bot.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-sao-2009-utsa-graduation-disbursement-hold
+
+## wide-sao-fy2009-renewal-only · THECB · FY2009 and FY2010 transition
+
+The audit states that in FY2009 THECB specified no institution-level BOT allocation amount and instructed institutions to award renewals only; THECB reportedly said initial awards resumed in FY2010 after new General Revenue appropriations. This is a consequential cohort/award-availability change.
+
+> In fiscal year 2009, the Coordinating Board did not specify specific amounts of BOT funds it would allocate to the institutions; instead, it instructed the institutions to award only renewals of BOT loans.
+
+[An Audit Report on Selected State-funded Student Financial Aid Programs at Seven Higher Education Institutions and the Higher Education Coordinating Board](https://sao.texas.gov/Reports/Main/10-015.pdf#page=40) · PDF page 40 · printed page 35 · retrieved 2026-10-13T03:36:09+00:00
+
+Anchor: exact; review: pending; scope: statewide.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-sao-fy2009-renewal-only
+
+## wide-smu-annual-fafsa-state-aid-2016-17 · Southern Methodist University · 2016-17
+
+SMU’s 2016–17 guide requires annual FAFSA filing to determine federal and state grant/loan eligibility from that year’s EFC; the same guide lists BOT as a Texas State Fund. This supports an annual general state-aid reassessment context, but states no BOT-specific renewal criterion or date.
+
+> All students must file a FAFSA each year to determine eligibility for federal and state grant and loan aid based on your yearly EFC calculation on the FAFSA.
+
+[Financial Aid Award Notice Information](https://web.archive.org/web/20160908172038id_/http://www.smu.edu:80/-/media/Site/EnrollmentServices/FinancialAid/Forms/1617/2016-2017-Award-Notice-Information.ashx#page=1) · PDF page 1 · printed page 1 · retrieved 2026-10-13
+
+Anchor: exact; review: pending; scope: general_institutional.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-smu-annual-fafsa-state-aid-2016-17
+
+## wide-thecb-bot-allocation-roster-2024 · THECB · FY 2025 redistribution (as of 2024-11-20)
+
+THECB final redistribution table lists FICE, institution, and residual-fund allocation for public universities and health-related institutions. Positive dollar amounts are the useful screening list for campuses to prioritize; a dash is not evidence of nonparticipation because it may reflect unused set-aside balances or the table footnotes.
+
+> BOT Redistribution Final Allocations
+
+[BOT Redistribution Final Allocations](https://reportcenter.highered.texas.gov/contracts/grant-records-financial-aid-program-records/bot-redistribution-fy-final-allocations/#page=1) · PDF page 1 · printed page 1 · retrieved 2026-10-13T03:31:07+00:00
+
+Anchor: exact; review: pending; scope: statewide.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-thecb-bot-allocation-roster-2024
+
+## wide-thecb-bot-forgiveness-default-fy2017-state-rates · THECB · FY 2017 cohort rates
+
+For the three-year cohort, statewide forgiveness was 38% (1,436/3,816) and default 28% (907/3,203), for 9/1/2014–8/31/2015 school-separation/original-contract cohorts.
+
+> Statewide Average Rate 3,816 1,436 38% 3,203 907 28%
+
+[BOT Forgiveness and Default Rates (2016 memo)](https://reportcenter.highered.texas.gov/agency-publication/miscellaneous/bot-forgiveness-and-default-rates-2016-memo/#page=3) · PDF page 3 · printed page Unknown · retrieved 2026-10-13T03:50:00+00:00
+
+Anchor: exact; review: pending; scope: statewide.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-thecb-bot-forgiveness-default-fy2017-state-rates
+
+## wide-thecb-bot-forgiveness-default-fy2020-state-rates · THECB · FY 2020 cohort rates
+
+The FY2020 three-year cohort table reports forgiveness 60% (1,730/2,896) and default 25% (296/1,197); source Helms Extract 9/1/2020.
+
+> Statewide Average Rate 1,730 2,896 60% 296 1,197 25%
+
+[Texas B-On-Time 3-Year Cohort FY 2020 Forgiveness and Default Rates](https://reportcenter.highered.texas.gov/reports/data/texas-b-on-time-3-year-cohort-fy-2020-forgiveness-and-default-rates/#page=2) · PDF page 2 · printed page Unknown · retrieved 2026-10-13T03:50:00+00:00
+
+Anchor: exact; review: pending; scope: statewide.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-thecb-bot-forgiveness-default-fy2020-state-rates
+
+## wide-thecb-bot-fy2017-private-reallocation-mechanics · THECB · FY2017
+
+For FY2017 BOT-private reallocation, THECB calculated awards using initial-allocation percentage shares, capped awards at each institution’s request, and required institutions to certify and disburse funds by May 1 or forfeit them.
+
+> No institution received funds in excess of their requested amount.
+
+[B-On-Time (BOT)-Private Reallocations FY 2017](https://reportcenter.highered.texas.gov/agency-publication/miscellaneous/b-on-time-bot-private-reallocations-fy-2017/#page=1) · PDF page 1 · printed page 1 · retrieved 2026-10-13T04:12:00+00:00
+
+Anchor: exact; review: pending; scope: statewide.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-thecb-bot-fy2017-private-reallocation-mechanics
+
+## wide-thecb-bot-fy2017-private-reallocation-total · THECB · FY2017
+
+The attached FY2017 private reallocation chart lists seven institutions and shows $121,493 in total reallocated BOT-private funds.
+
+> Grand Total 121,493.00
+
+[B-On-Time (BOT)-Private Reallocations FY 2017](https://reportcenter.highered.texas.gov/agency-publication/miscellaneous/b-on-time-bot-private-reallocations-fy-2017/#page=2) · PDF page 2 · printed page chart · retrieved 2026-10-13T04:12:00+00:00
+
+Anchor: exact; review: pending; scope: statewide.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-thecb-bot-fy2017-private-reallocation-total
+
+## wide-thecb-bot-fy2017-public-no-reallocation · THECB · FY2017
+
+THECB states it received no FY2017 BOT-public reallocation requests by Feb. 21 and made no public-program reallocation.
+
+> The agency did not receive any reallocation request forms
+
+[B-On-Time (BOT) Public Reallocations FY 2017](https://reportcenter.highered.texas.gov/agency-publication/miscellaneous/fy-2017-b-on-time-bot-public-reallocation-memo/#page=1) · PDF page 1 · printed page 1 · retrieved 2026-10-13T04:12:00+00:00
+
+Anchor: exact; review: pending; scope: statewide.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-thecb-bot-fy2017-public-no-reallocation
+
+## wide-thecb-bot-fy2018-10day-individualized-review · THECB · FY2018
+
+For FY2018 BOT allocation review, THECB used HELMS FY2017 loan recipients not scheduled to graduate before Aug. 31, 2017. Because participation was low enough that FERPA barred an all-institution spreadsheet, THECB sent each school its summary individually; schools had through May 19 to report discrepancies. Tentative amounts were not official allocations.
+
+> participation rates have reached a level where FERPA
+
+[FY 2018 B-On-Time (BOT) Loan 10-Day Allocation Data Review](https://reportcenter.highered.texas.gov/agency-publication/miscellaneous/fy-2018-b-on-time-bot-loan-10-day-allocation-data-review/#page=1) · PDF page 1 · printed page 1 · retrieved 2026-10-13T04:12:00+00:00
+
+Anchor: exact; review: pending; scope: statewide.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-thecb-bot-fy2018-10day-individualized-review
+
+## wide-thecb-bot-fy2018-reallocation-calculation-method-and-forfeiture · THECB · FY2018
+
+For FY2018 reallocated BOT funds, THECB says the amounts were distributed among institutions requesting by Nov. 20 using initial-allocation percentage shares, capped at each request; certified loans had to be disbursed by Feb. 20, 2018 or the institution forfeited the funds.
+
+> The chart below shows the reallocated BOT funds that will be distributed to the institutions that submitted a reallocated request form by November 20, 2017. The reallocation amounts were calculated using initial allocation percentage shares in accordance with the program rules. No institution will receive funds in excess of the requested amount. Disbursement of funds on certified loans must be made no later than February 20, 2018. Any funds not disbursed by the deadline date will be forfeited by the institution.
+
+[B-On-Time (BOT) FY 2018 Reallocation Calculation Memo](https://reportcenter.highered.texas.gov/agency-publication/miscellaneous/b-on-time-bot-reallocation-calculation-memo-fy-2018/#page=1) · PDF page 1 · printed page 1 · retrieved 2026-10-13T04:24:00+00:00
+
+Anchor: exact; review: pending; scope: statewide.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-thecb-bot-fy2018-reallocation-calculation-method-and-forfeiture
+
+## wide-thecb-bot-fy2018-reallocation-deadline-and-cap · THECB · FY2018
+
+For FY2018, THECB’s Oct. 20, 2017 reallocation memo says institutions had through Nov. 20 to encumber allocated funds and submit the enclosed request form; unencumbered balances could be reallocated, and no institution could receive more than it requested. The memo’s separate usage attachment is identified as an Oct. 19 snapshot.
+
+> All unencumbered funds may be reallocated to institutions requesting these funds.
+
+[B-On-Time (BOT) Loan Reallocation Process for FY 2018](https://reportcenter.highered.texas.gov/agency-publication/miscellaneous/b-on-time-bot-loan-reallocation-process-for-fy-2017-memo/#page=1) · PDF page 1 · printed page 1 · retrieved 2026-10-13T04:12:00+00:00
+
+Anchor: exact; review: pending; scope: statewide.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-thecb-bot-fy2018-reallocation-deadline-and-cap
+
+## wide-thecb-bot-fy2019-reallocation-process · THECB · FY 2019
+
+Institutions had through Feb. 20, 2019 to certify eligible applications against FY2019 allocated funds; unencumbered amounts could be reallocated. A school could request additional funds only if it had encumbered its original allocation and had identified eligible students; no award could exceed its request. The memo names separate Jan. 30 usage attachments for private/HRI and public institutions, but they were not embedded in the recovered PDF.
+
+> Institutions have until February 20, 2019 to encumber any allocated FY 2019 BOT program funds by certifying eligible loan applications.
+
+[B-On-Time (BOT) Loan Reallocation Process for FY 2019](https://reportcenter.highered.texas.gov/correspondence/departmental-correspondence/b-on-time-loan-fy-2019-reallocation-process-memo1/#page=1) · PDF page 1 · printed page 1 · retrieved 2026-10-13T03:55:00+00:00
+
+Anchor: exact; review: pending; scope: statewide.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-thecb-bot-fy2019-reallocation-process
+
+## wide-thecb-bot-participation-period · THECB · FY 2007–2015 participation period, stated in 2024 memo
+
+THECB states residual BOT funds would be redistributed to institutions that participated in the BOT Program during FY 2007–2015, calculated from unused tuition set-asides; funds were restricted to increasing graduation rates of at-risk students.
+
+> Funds will be redistributed to institutions that participated in the BOT Program during fiscal years 2007-2015 based on their unused tuition set-asides. These funds must be used to increase the graduation rates of at-risk students at those institutions.
+
+[Allocation Methodology and Data Review for Texas B-On-Time (BOT) Student Loan Program Funds Redistribution](https://reportcenter.highered.texas.gov/correspondence/departmental-correspondence/bot-funds-redistribution-allocation-and-data-review-memo/#page=1) · PDF page 1 · printed page 1 · retrieved 2026-10-13T03:31:07+00:00
+
+Anchor: exact; review: pending; scope: statewide.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-thecb-bot-participation-period
+
+## wide-thecb-bot-phaseout-2015-faac-summary · THECB · FY2015–16 transition
+
+FAAC June 25, 2015 meeting notes summarize the BOT phaseout as five years, with new loans limited to students who received an initial award before academic year 2015–16 and the five-percent tuition set-aside ending in fall 2015.
+
+> The Texas B-On-Time Loan Program is phased out over the next five years.
+
+[FAAC (12-10-2015) Handouts](https://reportcenter.highered.texas.gov/agency-publication/miscellaneous/faac-12-10-2015-handouts/#page=16) · PDF page 16 · printed page 2 · retrieved 2026-10-13T04:20:00+00:00
+
+Anchor: exact; review: pending; scope: statewide.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-thecb-bot-phaseout-2015-faac-summary
+
+## wide-thecb-bot-preliminary-allocation-review-june-2015 · THECB · FY2015–16
+
+THECB FAAC June 25 meeting notes report that preliminary BOT allocations went out June 23, 2015 and had entered a 10-day review period.
+
+> B-On-Time preliminary went out June 23, 2015, now in the 10 day review period
+
+[FAAC (12-10-2015) Handouts](https://reportcenter.highered.texas.gov/agency-publication/miscellaneous/faac-12-10-2015-handouts/#page=20) · PDF page 20 · printed page 6 · retrieved 2026-10-13T04:20:00+00:00
+
+Anchor: exact; review: pending; scope: statewide.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-thecb-bot-preliminary-allocation-review-june-2015
+
+## wide-thecb-bot-private-usage-fy2020-five-allocations · THECB · FY 2020
+
+THECB’s FY2020 private/health-related usage table totals $199,999 allocated, $9,792 encumbered, and $190,207 remaining as of October 29, 2019.
+
+> Grand Total 199,999.00 9,792.00 190,207.00
+
+[BOT Private/Health-Related University Allocation Usage FY 2020 (as of 10/29/2019)](https://reportcenter.highered.texas.gov/contracts/grant-records-financial-aid-program-records/bot-private-health-related-university-allocation-usage-fy-2020/#page=1) · PDF page 1 · printed page Unknown · retrieved 2026-10-13T03:46:12+00:00
+
+Anchor: exact; review: corrected; scope: statewide.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-thecb-bot-private-usage-fy2020-five-allocations
+
+## wide-thecb-fy2019-allocation-review · THECB · 2018–19 / FY 2019
+
+THECB required a ten-day review of the BOT allocation data for FY 2019; institutions received individual recipient details and allocation summaries, and no reply was treated as confirmation of data accuracy. The reviewed data covered FY2018 loan recipients not scheduled to graduate before August 31, 2018.
+
+> As the BOT program winds down, participation rates have reached a level where FERPA protections prevent us from sending a spreadsheet listing the data from all institutions. Instead, each institution will receive student loan details through the Loans_Output folder in MOVEit DMZ by close of business Tuesday, May 15, 2018, with the summary of the institution’s allocation data. The source of data for the 10-day review process is the THECB’s Higher Education Loan Management System (HELMS). The data contains FY 2018 loan recipients who are not scheduled to graduate prior to August 31, 2018.
+
+[FY 2019 B-On-Time (BOT) Loan 10-Day Allocation Data Review](https://reportcenter.highered.texas.gov/correspondence/departmental-correspondence/b-on-time-loan-fy-2019-10-day-allocation-data-review-memo/#page=1) · PDF page 1 · printed page 1 · retrieved 2026-10-13T03:33:14+00:00
+
+Anchor: exact; review: pending; scope: statewide.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-thecb-fy2019-allocation-review
+
+## wide-thecb-fy2020-allocation-review · THECB · 2019–20 / FY 2020
+
+THECB required a ten-day review of the FY2020 BOT allocation inputs from HELMS; institutions reviewed individual loan-recipient graduation dates and could correct them by May 13, 2019. No response was treated as confirmation of school data accuracy.
+
+> The source of data used for the preliminary allocation calculation is based on data from the THECB’s Higher Education Loan Management System (HELMS). As the BOT loan program continues to wind down, participation rates have reached a level where the Family Educational Rights and Privacy Act (FERPA) prevents us from sending a spreadsheet listing the data for all institutions. Instead, each institution will receive student loan details and a summary of the institution’s allocation data. Student loan details have been included on a spreadsheet and uploaded into the LOAN_OUTPUT folder using MOVEIt. The spreadsheet contains the graduation date for each FY 2019 loan recipient. Based on administrative rules, loan recipients with a graduation date prior to August 31 cannot be included in the allocation calculation process.
+
+[FY 2020 B-On-Time (BOT) 10-Day Allocation Data Review](https://reportcenter.highered.texas.gov/correspondence/departmental-correspondence/b-on-time-bot-loan-10-day-allocation-data-review-memo-fy-2020/#page=1) · PDF page 1 · printed page 1 · retrieved 2026-10-13T03:33:14+00:00
+
+Anchor: exact; review: pending; scope: statewide.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-thecb-fy2020-allocation-review
+
+## wide-tsu-bot-initial-funding-restored · Texas Southern University · 2007-10
+
+TSU reported that THECB barred first-time freshman initial-year awards during AY 2007-08 and 2008-09, then resumed initial-year funding with annual allocations beginning 2009-10.
+
+> Beginning in 2009 - 2010, the Texas Higher Education Coordinating Board resumed the funding of Initial Year (IY) Be-On-Time Loan awards and provided institutions with a yearly allocation to fund these new awards.
+
+[BOT statement submitted by TSU Enrollment Management to the Texas Senate](https://senate.texas.gov/cmtes/81/c560/0426-JamesMDouglas.pdf#page=2) · PDF page 2 · printed page 2 · retrieved 2026-10-13T03:33:34Z
+
+Anchor: exact; review: pending; scope: statewide.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-tsu-bot-initial-funding-restored
+
+## wide-ttu-bot-instructions-20150513014341-counseling · Texas Tech University · 2015-16 onward
+
+Beginning in 2015-16, BOT entrance counseling is required before disbursement.
+
+> Beginning with the 2015-16 Award Year, all B-on-Time recipients are required to complete BOT Entrance Counseling before loan funds can be disbursed to the student’s account.
+
+[Texas Tech BOT loan instructions; archived May 2015](https://web.archive.org/web/20150513014341id_/http://www.depts.ttu.edu:80/financialaid/PDFs/BOT_Loan_Instructions-revised_1.pdf#page=1) · PDF page 1 · printed page Unknown · retrieved 2026-10-13T03:35:42.455857+00:00
+
+Anchor: exact; review: pending; scope: direct_bot.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-ttu-bot-instructions-20150513014341-counseling
+
+## wide-ttu-bot-instructions-20150513014341-decline-window · Texas Tech University · Unknown
+
+The borrower has a 10-business-day decline window after the signed final disclosure stage.
+
+> The borrower has 10 business days to decline the loan award should the loan no longer be needed.
+
+[Texas Tech BOT loan instructions; archived May 2015](https://web.archive.org/web/20150513014341id_/http://www.depts.ttu.edu:80/financialaid/PDFs/BOT_Loan_Instructions-revised_1.pdf#page=1) · PDF page 1 · printed page Unknown · retrieved 2026-10-13T03:35:42.455857+00:00
+
+Anchor: exact; review: pending; scope: direct_bot.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-ttu-bot-instructions-20150513014341-decline-window
+
+## wide-ttu-bot-instructions-20150513014341-disbursement-timing · Texas Tech University · Unknown
+
+Disbursement waits until the later of the 11th business day after final approval or 10 calendar days before classes.
+
+> Funds will not be disbursed until the 11th business day after the final approval or 10 calendar days prior to the first day of classes, whichever is later.
+
+[Texas Tech BOT loan instructions; archived May 2015](https://web.archive.org/web/20150513014341id_/http://www.depts.ttu.edu:80/financialaid/PDFs/BOT_Loan_Instructions-revised_1.pdf#page=1) · PDF page 1 · printed page Unknown · retrieved 2026-10-13T03:35:42.455857+00:00
+
+Anchor: exact; review: pending; scope: direct_bot.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-ttu-bot-instructions-20150513014341-disbursement-timing
+
+## wide-ttu-bot-instructions-20150513014341-eligibility-at-disbursement · Texas Tech University · Unknown
+
+Full-time enrollment and minimum academic progress must hold at disbursement.
+
+> To remain eligible to receive the loan funds, the student must be enrolled full time (12 or more hours) and meeting the program’s minimum academic progress requirements at the time of disbursement.
+
+[Texas Tech BOT loan instructions; archived May 2015](https://web.archive.org/web/20150513014341id_/http://www.depts.ttu.edu:80/financialaid/PDFs/BOT_Loan_Instructions-revised_1.pdf#page=1) · PDF page 1 · printed page Unknown · retrieved 2026-10-13T03:35:42.455857+00:00
+
+Anchor: exact; review: pending; scope: direct_bot.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-ttu-bot-instructions-20150513014341-eligibility-at-disbursement
+
+## wide-ttu-bot-instructions-20150513014341-final-disclosure · Texas Tech University · Unknown
+
+Approval of the application, self-certification and master promissory note precedes the final disclosure and borrower acceptance.
+
+> Once the Coordinating Board has approved all three documents, a Final Loan Disclosure will be sent to the student borrower via US mail for review and acceptance.
+
+[Texas Tech BOT loan instructions; archived May 2015](https://web.archive.org/web/20150513014341id_/http://www.depts.ttu.edu:80/financialaid/PDFs/BOT_Loan_Instructions-revised_1.pdf#page=1) · PDF page 1 · printed page Unknown · retrieved 2026-10-13T03:35:42.455857+00:00
+
+Anchor: exact; review: pending; scope: direct_bot.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-ttu-bot-instructions-20150513014341-final-disclosure
+
+## wide-ttu-bot-instructions-20150513014341-post-acceptance-start · Texas Tech University · Unknown
+
+The state application process begins approximately 2–4 business days after the student accepts the TTU award.
+
+> Student will begin completing the BOT Loan process at www.hhloans.com approximately 2-4 business days after accepting the award on TTUMyTech.
+
+[Texas Tech BOT loan instructions; archived May 2015](https://web.archive.org/web/20150513014341id_/http://www.depts.ttu.edu:80/financialaid/PDFs/BOT_Loan_Instructions-revised_1.pdf#page=1) · PDF page 1 · printed page Unknown · retrieved 2026-10-13T03:35:42.455857+00:00
+
+Anchor: exact; review: pending; scope: direct_bot.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-ttu-bot-instructions-20150513014341-post-acceptance-start
+
+## wide-ttu-customer-service2012-review-award-position · Texas Tech University · 2011-12
+
+TTU reported a position responsible for reviewing and awarding TEXAS Grants and BOT loans among activities accomplished in 2011-12.
+
+> Continue to successfully utilize position with the responsibility to review and award TEXAS Grants and Texas B‐On‐Time loans to eligible students.
+
+[Texas Tech 2012 Report on Customer Service](https://www.depts.ttu.edu/irim/Reports/StateReports/TTU/CustomerService/CustomerServiceReport2012.pdf#page=9) · PDF page 9 · printed page 7 · retrieved 2026-10-13T03:32:45.061451+00:00
+
+Anchor: exact; review: pending; scope: direct_bot.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-ttu-customer-service2012-review-award-position
+
+## wide-ttu-proration-20150228031937-enrollment-review · Texas Tech University · Unknown
+
+TTU reviews enrollment and adjusts financial aid before each semester’s disbursement and again on census day (the 12th class day).
+
+> This review and adjustment occurs each semester, prior to the financial aid disbursement date and then again at census date (the official 12th class day of the semester).
+
+[Texas Tech award proration; archived February 2015](https://web.archive.org/web/20150228031937id_/http://www.depts.ttu.edu:80/financialaid/awardProration.php#:~:text=This%20review%20and%20adjustment%20occurs%20each%20semester%2C%20prior%20to%20the%20financial%20aid%20disbursement%20date%20and%20then%20again%20at%20census%20date%20%28the%20official%2012th%20class%20day%20of%20the%20semester%29.) · PDF page n/a · printed page Unknown · retrieved 2026-10-13T03:35:43.810303+00:00
+
+Anchor: exact; review: pending; scope: general_institutional.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-ttu-proration-20150228031937-enrollment-review
+
+## wide-uh-20130204003619-acceptance-processing · University of Houston · 2012-13
+
+UH instructs offered students to accept BOT and complete a THECB promissory note; the page describes completion of this process 4–6 weeks after acceptance.
+
+> If a student is offered this loan, the student will need to accept the loan and complete a Master Promissory Note (MPN) with the Texas Higher Education Coordinating Board (THECB). This process will be completed 4-6 weeks after the award has been accepted.
+
+[UH BOT loan instructions with January 2013 disbursement boundary](https://web.archive.org/web/20130204003619id_/http://www.uh.edu/financial/undergraduate/types-aid/loans/Be-On-Time-Loan/index.php#:~:text=If%20a%20student%20is%20offered%20this%20loan%2C%20the%20student%20will%20need%20to%20accept%20the%20loan%20and%20complete%20a%20Master%20Promissory%20Note%20%28MPN%29%20with%20the%20Texas%20Higher%20Education%20Coordinating%20Board%20%28THECB%29.%20This%20process%20will%20be%20completed%204%2D6%20weeks%20after%20the%20award%20has%20been%20accepted.) · PDF page n/a · printed page Unknown · retrieved 2026-10-13T04:20:25.892109+00:00
+
+Anchor: exact; review: pending; scope: direct_bot.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-uh-20130204003619-acceptance-processing
+
+## wide-uh-20130204003619-disbursement-boundary · University of Houston · 2012-13
+
+UH’s archived BOT instructions say disbursements would begin after January 14, 2013, on dates set by THECB.
+
+> Disbursement dates are set by the Texas Higher Education Coordinating Board and will begin after January 14, 2013.
+
+[UH BOT loan instructions with January 2013 disbursement boundary](https://web.archive.org/web/20130204003619id_/http://www.uh.edu/financial/undergraduate/types-aid/loans/Be-On-Time-Loan/index.php#:~:text=Disbursement%20dates%20are%20set%20by%20the%20Texas%20Higher%20Education%20Coordinating%20Board%20and%20will%20begin%20after%20January%2014%2C%202013.) · PDF page n/a · printed page Unknown · retrieved 2026-10-13T04:20:25.892109+00:00
+
+Anchor: exact; review: pending; scope: direct_bot.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-uh-20130204003619-disbursement-boundary
+
+## wide-uh-20130204003619-renewal-year-end · University of Houston · 2012-13
+
+UH states that at the end of the second and later academic years, future BOT eligibility requires 75% completion in the most recent academic year and a cumulative 2.5 GPA across prior higher-education coursework.
+
+> As of the end of the 2nd and Subsequent Academic Years - complete at least 75% of the semester credit hours attempted in the most recent academic year and have a cumulative GPA of at least a 2.5 on a 4.0 scale (or the equivalent) on all course work previously attempted at institutions of higher education.
+
+[UH BOT loan instructions with January 2013 disbursement boundary](https://web.archive.org/web/20130204003619id_/http://www.uh.edu/financial/undergraduate/types-aid/loans/Be-On-Time-Loan/index.php#:~:text=As%20of%20the%20end%20of%20the%202nd%20and%20Subsequent%20Academic%20Years%20%2D%20complete%20at%20least%2075%25%20of%20the%20semester%20credit%20hours%20attempted%20in%20the%20most%20recent%20academic%20year%20and%20have%20a%20cumulative%20GPA%20of%20at%20least%20a%202.5%20on%20a%204.0%20scale%20%28or%20the%20equivalent%29%20on%20all%20course%20work%20previously%20attempted%20at%20institutions%20of%20higher%20education.) · PDF page n/a · printed page Unknown · retrieved 2026-10-13T04:20:25.892109+00:00
+
+Anchor: exact; review: pending; scope: direct_bot.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-uh-20130204003619-renewal-year-end
+
+## wide-uiw-sap-20190213213439-appeal-deadline · University of the Incarnate Word · Unknown
+
+UIW’s general SAP appeal form and academic plan are due August1.
+
+> The SAP Appeal Form and SAP Academic Plan are due to the UIW Office of Financial Assistance by August 1 st .
+
+[UIW general satisfactory academic progress policy; February2019 archive](https://web.archive.org/web/20190213213439id_/http://uiw.edu:80/finaid/sapinfo.html#:~:text=The%20SAP%20Appeal%20Form%20and%20SAP%20Academic%20Plan%20are%20due%20to%20the%20UIW%20Office%20of%20Financial%20Assistance%20by%20August%201%20st%20.) · PDF page n/a · printed page Unknown · retrieved 2026-10-13T04:24:51.717197+00:00
+
+Anchor: exact; review: pending; scope: general_institutional.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-uiw-sap-20190213213439-appeal-deadline
+
+## wide-uiw-sap-20190213213439-spring-review · University of the Incarnate Word · Unknown
+
+UIW’s archived general SAP policy reviews every financial-aid recipient at spring-semester end for the upcoming aid year.
+
+> At the end of every spring semester, our office will review the progress of every financial aid recipient to determine their eligibility for financial aid for the upcoming aid year.
+
+[UIW general satisfactory academic progress policy; February2019 archive](https://web.archive.org/web/20190213213439id_/http://uiw.edu:80/finaid/sapinfo.html#:~:text=At%20the%20end%20of%20every%20spring%20semester%2C%20our%20office%20will%20review%20the%20progress%20of%20every%20financial%20aid%20recipient%20to%20determine%20their%20eligibility%20for%20financial%20aid%20for%20the%20upcoming%20aid%20year.) · PDF page n/a · printed page Unknown · retrieved 2026-10-13T04:24:51.717197+00:00
+
+Anchor: exact; review: pending; scope: general_institutional.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-uiw-sap-20190213213439-spring-review
+
+## wide-uiw-sap-20190213213439-status-notification · University of the Incarnate Word · Unknown
+
+UIW’s general SAP timeline lists June notification of SAP status and instructions by email and mail.
+
+> June Students notified of SAP status and given instructions for process (email and mail)
+
+[UIW general satisfactory academic progress policy; February2019 archive](https://web.archive.org/web/20190213213439id_/http://uiw.edu:80/finaid/sapinfo.html#:~:text=June%20Students%20notified%20of%20SAP%20status%20and%20given%20instructions%20for%20process%20%28email%20and%20mail%29) · PDF page n/a · printed page Unknown · retrieved 2026-10-13T04:24:51.717197+00:00
+
+Anchor: exact; review: pending; scope: general_institutional.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-uiw-sap-20190213213439-status-notification
+
+## wide-uiw-statehardship-2019-appeal-response · University of the Incarnate Word · Unknown
+
+UIW’s state non-renewal appeal form says the committee will decide within10 days and will not review incomplete appeals.
+
+> The Review Committee will evaluate your appeal and have a decision within 10 days. The committee will not review incomplete appeals.
+
+[UIW state non-renewal appeal form; September2015 archive](https://web.archive.org/web/20150906092002id_/http://www.uiw.edu/finaid/documents/1516_stsap.pdf#page=1) · PDF page 1 · printed page Unknown · retrieved 2026-10-13T04:35:22.676795+00:00
+
+Anchor: exact; review: pending; scope: general_institutional.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-uiw-statehardship-2019-appeal-response
+
+## wide-utaustin-bot-20061207190727-award-before-application · University of Texas at Austin · 2006-07
+
+UT Austin’s 2006-07 page says an institutional award precedes direction to complete the online application/promissory note, with extremely limited funds.
+
+> Important: Funds for this program are extremely limited and if you are awarded the B-On-Time loan by our office, we will direct you to complete an application/promissory note on-line.
+
+[UT Austin About B-On-Time Loans; updated November 2006](https://web.archive.org/web/20061207190727id_/http://finaid.utexas.edu:80/sources/loans/loantypes/bot.html#:~:text=Important%3A%20Funds%20for%20this%20program%20are%20extremely%20limited%20and%20if%20you%20are%20awarded%20the%20B%2DOn%2DTime%20loan%20by%20our%20office%2C%20we%20will%20direct%20you%20to%20complete%20an%20application%2Fpromissory%20note%20on%2Dline.) · PDF page n/a · printed page Unknown · retrieved 2026-10-13T03:34:27.211692+00:00
+
+Anchor: exact; review: pending; scope: direct_bot.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-utaustin-bot-20061207190727-award-before-application
+
+## wide-utaustin-spotlight-15-retry-eligibility-underway · University of Texas at Austin · 2004-05
+
+A spotlight updated March 1, 2004 says eligibility determination for the 2004-05 BOT loan is underway and funds will be extremely limited.
+
+> The University of Texas at Austin is currently determining student eligibility for the Texas B-On Time Loan. Funding for this loan will be extremely limited.
+
+[UT Austin 2004-2005 Texas B-On-Time Loan spotlight](https://web.archive.org/web/20051112172333id_/http://finaid.utexas.edu/spotlights/bot_040.html#:~:text=The%20University%20of%20Texas%20at%20Austin%20is%20currently%20determining%20student%20eligibility%20for%20the%20Texas%20B%2DOn%20Time%20Loan.%20Funding%20for%20this%20loan%20will%20be%20extremely%20limited.) · PDF page n/a · printed page Unknown · retrieved 2026-10-13T03:40:10.889715+00:00
+
+Anchor: exact; review: pending; scope: direct_bot.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-utaustin-spotlight-15-retry-eligibility-underway
+
+## wide-utd-bot-acceptance-window-2007 · University of Texas at Dallas · 2007-08
+
+UTD required the listed steps to be completed within 30 days of the financial-aid award-letter date to accept the loan.
+
+> NOTE: You must complete the following steps within 30 days of your financial aid award letter date to accept your Texas B-On-Time Loan.
+
+[Texas B-On-Time Loan Program Fact Sheet](https://web.archive.org/web/20070823001805id_/http://financial-aid.utdallas.edu/forms/YR%200708/BOTL%20%20Awd%20Ltr%20Enclosure.pdf#page=2) · PDF page 2 · printed page 2 · retrieved 2026-10-13T03:36:36Z
+
+Anchor: exact; review: pending; scope: direct_bot.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-utd-bot-acceptance-window-2007
+
+## wide-utd-bot-conditional-offer-2007 · University of Texas at Dallas · 2007-08
+
+UTD determined eligibility, cautioned that limited BOT funding could leave the loan out of a financial-aid package, and directed offered students to application/promissory-note instructions printed on the reverse.
+
+> As funding for the Texas B-On-Time Loan Program is limited, your financial aid package may not include this loan. If this loan is offered to you on your financial aid award letter, please follow the instructions on the reverse side of this sheet to complete an application/promissory note on-line.
+
+[Texas B-On-Time Loan Program Fact Sheet](https://web.archive.org/web/20070823001805id_/http://financial-aid.utdallas.edu/forms/YR%200708/BOTL%20%20Awd%20Ltr%20Enclosure.pdf#page=1) · PDF page 1 · printed page 1 · retrieved 2026-10-13T03:36:36Z
+
+Anchor: exact; review: corrected; scope: direct_bot.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-utd-bot-conditional-offer-2007
+
+## wide-utd-bot-note-submission-2007 · University of Texas at Dallas · 2007-08
+
+UTD’s process required new borrowers to sign, date, print, and mail the completed promissory note to THECB after submitting the electronic application information.
+
+> New borrowers: Sign, date, print, and mail completed Promissory Note to Texas Higher Education Coordinating Board (THECB) to the address provided.
+
+[Texas B-On-Time Loan Program Fact Sheet](https://web.archive.org/web/20070823001805id_/http://financial-aid.utdallas.edu/forms/YR%200708/BOTL%20%20Awd%20Ltr%20Enclosure.pdf#page=2) · PDF page 2 · printed page 2 · retrieved 2026-10-13T03:36:36Z
+
+Anchor: exact; review: pending; scope: direct_bot.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-utd-bot-note-submission-2007
+
+## wide-utd-bot-renewal-rule-2007 · University of Texas at Dallas · 2007-08
+
+UTD used its own satisfactory-progress standard in the first academic year; from the second year, students needed 75% completion in the most recent academic year and a 2.5 cumulative GPA across all previous higher-education coursework.
+
+> In the 1st Academic Year – make satisfactory academic progress toward a degree or certificate as determined by UTD’s Standards of Academic Progress policy.
+• In the 2nd and Subsequent Academic Years – complete at least 75% of the semester credit hours attempted in the most recent academic year and have a cumulative GPA of at least a 2.5 on a 4.0 scale (or the equivalent) on all coursework previously attempted at institutions of higher education.
+
+[Texas B-On-Time Loan Program Fact Sheet](https://web.archive.org/web/20070823001805id_/http://financial-aid.utdallas.edu/forms/YR%200708/BOTL%20%20Awd%20Ltr%20Enclosure.pdf#page=1) · PDF page 1 · printed page 1 · retrieved 2026-10-13T03:36:36Z
+
+Anchor: exact; review: pending; scope: direct_bot.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-utd-bot-renewal-rule-2007
+
+## wide-utpb-bot-renewal-only-2017-19 · University of Texas Permian Basin · 2017-19
+
+The catalog says BOT funds were unavailable for new awards and only renewals were being made; it gives no date for when that status began and no renewal criteria in this passage.
+
+> Currently funds are not available to make new awards in this program and only renewals are being made.
+
+[2017-2019 Undergraduate Catalog](https://www.utpb.edu/catalog-archives/docs/2017-2019-undergraduate-catalog.pdf#page=31) · PDF page 31 · printed page 30 · retrieved 2026-10-13T03:32:25Z
+
+Anchor: exact; review: pending; scope: direct_bot.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-utpb-bot-renewal-only-2017-19
+
+## wide-uttyler-10-retry-request-deadlines · University of Texas at Tyler · 2015-16
+
+The 2015-16 shared form sets a fall request deadline of October 1, 2015 and a spring deadline of February 13, 2016.
+
+> DEADLINE TO REQUEST renewal/transfer awards is Fall: October 1, 2015 Spring: February 13, 2016
+
+[UT Tyler TEXAS Grant/B-On-Time transfer/renewal request 2015-16](https://web.archive.org/web/20150905141603id_/http://www.uttyler.edu/financialaid/files/1516txgntbottrans.pdf#page=1) · PDF page 1 · printed page Unknown · retrieved 2026-10-13T03:40:06.374909+00:00
+
+Anchor: exact; review: pending; scope: direct_bot.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-uttyler-10-retry-request-deadlines
+
+## wide-uttyler-11-retry-request-deadlines · University of Texas at Tyler · 2016-17
+
+The 2016-17 shared form sets a fall request deadline of October 1, 2016 and a spring deadline of February 13, 2017.
+
+> DEADLINE TO REQUEST renewal/transfer awards is Fall: October 1, 2016 Spring: February 13, 2017
+
+[UT Tyler TEXAS Grant/B-On-Time transfer/renewal request 2016-17](https://web.archive.org/web/20170627013400id_/http://www.uttyler.edu/financialaid/files/1617-txgnt-bot-trans.pdf#page=1) · PDF page 1 · printed page Unknown · retrieved 2026-10-13T03:40:07.143413+00:00
+
+Anchor: exact; review: pending; scope: direct_bot.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-uttyler-11-retry-request-deadlines
+
+## wide-uttyler-6-retry-online-confirmation-boundary · University of Texas at Tyler · 2006-07
+
+The 2006-07 joint TEXAS Grant/BOT form says online renewal eligibility will not be confirmed before July 1, 2006, without identifying which program the statement governs.
+
+> On-line renewal eligibility will not be confirmed before July 1, 2006.
+
+[UT Tyler TEXAS Grant/B-On-Time transfer/renewal request 2006-07](https://web.archive.org/web/20100528081700id_/http://www.uttyler.edu/financialaid/0607/documents/06-07trans_tx-gnt_bot.pdf#page=1) · PDF page 1 · printed page Unknown · retrieved 2026-10-13T03:40:01.040875+00:00
+
+Anchor: exact; review: pending; scope: general_institutional.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-uttyler-6-retry-online-confirmation-boundary
+
+## wide-uttyler-6-retry-request-deadlines · University of Texas at Tyler · 2006-07
+
+The 2006-07 shared form sets a fall request deadline of October 1, 2006 and a spring deadline of February 1, 2007.
+
+> DEADLINE TO REQUEST renewal/transfer awards is October 1, 2006 for Fall and February 1, 2007 for Spring.
+
+[UT Tyler TEXAS Grant/B-On-Time transfer/renewal request 2006-07](https://web.archive.org/web/20100528081700id_/http://www.uttyler.edu/financialaid/0607/documents/06-07trans_tx-gnt_bot.pdf#page=1) · PDF page 1 · printed page Unknown · retrieved 2026-10-13T03:40:01.040875+00:00
+
+Anchor: exact; review: pending; scope: direct_bot.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-uttyler-6-retry-request-deadlines
+
+## wide-uttyler-7-retry-request-deadlines · University of Texas at Tyler · 2013-14
+
+The 2013-14 shared form sets a fall request deadline of October 1, 2013 and a spring deadline of February 14, 2014.
+
+> DEADLINE TO REQUEST renewal/transfer awards is October 1, 2013 for Fall and February 14, 2014 for Spring.
+
+[UT Tyler TEXAS Grant/B-On-Time transfer/renewal request 2013-14](https://web.archive.org/web/20130914120551id_/http://uttyler.edu/financialaid/1314_txgnt_bot_trans.pdf#page=1) · PDF page 1 · printed page Unknown · retrieved 2026-10-13T03:40:04.339090+00:00
+
+Anchor: exact; review: pending; scope: direct_bot.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-uttyler-7-retry-request-deadlines
+
+## wide-uttyler-8-retry-request-deadlines · University of Texas at Tyler · 2009-10
+
+The 2009-10 shared form sets a fall request deadline of October 2, 2009 and a spring deadline of February 5, 2010.
+
+> DEADLINE TO REQUEST renewal/transfer awards is October 2, 2009 for Fall, and February 5, 2010 for Spring.
+
+[UT Tyler TEXAS Grant/B-On-Time transfer/renewal request 2009-10](https://web.archive.org/web/20100527165231id_/http://www.uttyler.edu/financialaid/documents/0910_trans_txgnt_bot_001.pdf#page=1) · PDF page 1 · printed page Unknown · retrieved 2026-10-13T03:40:05.126720+00:00
+
+Anchor: exact; review: pending; scope: direct_bot.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-uttyler-8-retry-request-deadlines
+
+## wide-uttyler-8-retry-transfer-records · University of Texas at Tyler · 2009-10
+
+BOT transfer students had to obtain their prior school’s initial award year/eligibility, cumulative GPA, and completion hours/percentage by email.
+
+> **B-On-Time transfer students MUST request from their previous school’s Financial Aid Office an email with: 1) initial award year & eligibility, 2) cumulative GPA, 3) completion hours/percentage to: mhackett@uttyler.edu
+
+[UT Tyler TEXAS Grant/B-On-Time transfer/renewal request 2009-10](https://web.archive.org/web/20100527165231id_/http://www.uttyler.edu/financialaid/documents/0910_trans_txgnt_bot_001.pdf#page=1) · PDF page 1 · printed page Unknown · retrieved 2026-10-13T03:40:05.126720+00:00
+
+Anchor: exact; review: pending; scope: direct_bot.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-uttyler-8-retry-transfer-records
+
+## wide-uttyler-9-retry-request-deadlines · University of Texas at Tyler · 2010-11
+
+The 2010-11 shared form sets a fall request deadline of October 1, 2010 and a spring deadline of February 15, 2011.
+
+> DEADLINE TO REQUEST renewal/transfer awards is October 1, 2010 for Fall and February 15, 2011 for Spring.
+
+[UT Tyler TEXAS Grant/B-On-Time transfer/renewal request 2010-11](https://web.archive.org/web/20100527164943id_/http://www.uttyler.edu/financialaid/documents/1011_txgnt_bot_trans_000.pdf#page=1) · PDF page 1 · printed page Unknown · retrieved 2026-10-13T03:40:05.774403+00:00
+
+Anchor: exact; review: pending; scope: direct_bot.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-uttyler-9-retry-request-deadlines
+
+## wide-vernon-catalog-general-aid-dates · Vernon College · 2010-11
+
+Vernon College’s general aid workflow confirms application information and determines eligibility before notifying students by college email.
+
+> After the application information is confirmed and eligibility determined, the student will receive an award notification via their Vernon College e-mail account, which details the award(s) the student may be eligible to receive.
+
+[General Catalog 2010–11](https://www.vernoncollege.edu/resources/publications/vernon%20college%202010-11%20general%20catalog.pdf#page=29) · PDF page 29 · printed page 30 · retrieved 2026-10-13T00:00:00Z
+
+Anchor: exact; review: pending; scope: general_institutional.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-vernon-catalog-general-aid-dates
+
+## wide-vernon-dec-2010-identification · Vernon College · 2010-11
+
+Vernon College staff again reported identifying B-On-Time loan recipients during December 2010
+
+> Identifying B-On-Time loan recipients
+
+[President's Monthly Update, December 2010](https://www.vernoncollege.edu/Resources/College%20Effectiveness/Presidents%20Monthly%20Update%20December-2010.pdf#page=3) · PDF page 3 · printed page 3 · retrieved 2026-10-13T00:00:00Z
+
+Anchor: exact; review: pending; scope: direct_bot.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-vernon-dec-2010-identification
+
+## wide-vernon-nov-2010-identification · Vernon College · 2010-11
+
+Vernon College staff reported identifying B-On-Time loan recipients during November 2010
+
+> Identifying B-On-Time loan recipients
+
+[President's Monthly Update, November 2010](https://www.vernoncollege.edu/resources/college%20effectiveness/communication/presidents%20monthly%20updates/2010/presidents%20monthly%20update%20november-2010.pdf#page=3) · PDF page 3 · printed page 3 · retrieved 2026-10-13T00:00:00Z
+
+Anchor: exact; review: pending; scope: direct_bot.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-vernon-nov-2010-identification
+
+## wide-wiley-general-sap-annual-review · Wiley College · 2020-24
+
+Wiley College states that general SAP is reviewed at academic-year end; the catalog separately lists BOT as state aid, but does not expressly tie this review period to BOT renewal.
+
+> Wiley College will review a student’s progress at the end of each academic year.
+
+[Course Catalog 2020-2024](https://www.wileyc.edu/assets/downloads/course-catalog-2020-2024.pdf#page=168) · PDF page 168 · printed page 167 · retrieved 2026-10-13T04:00:00Z
+
+Anchor: exact; review: pending; scope: general_institutional.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=wide-wiley-general-sap-annual-review

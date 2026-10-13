@@ -16,3 +16,5 @@ The exact Texas Tech 2014 strategic-plan lead and SWAU 2017–18 financial-infor
 Reviewer identities, comments, private audit history, local paths, and writable review controls are excluded. The local research app retains immutable candidates and append-only history. Agent review does not confer human acceptance.
 
 `site/` is the GitHub Pages deployment artifact; Actions publishes it on pushes to `main`.
+
+The timeline has separate university/office, academic-year or stated-period, and date-availability selectors. Filter for exact day/month dates, any stated timing, or no stated timing. Matching sources for an institution and year are combined; unknown-year sources remain separate. Timeline filters are retained in shareable URLs.

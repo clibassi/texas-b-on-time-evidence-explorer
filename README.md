@@ -1,15 +1,18 @@
 # Texas B-On-Time Historical Administration Evidence Explorer
 
-A public, read-only static snapshot of the research explorer.
+[Open the explorer](https://clibassi.github.io/texas-b-on-time-evidence-explorer/) · [Research findings](RESEARCH.md)
 
-- Snapshot date: 2026-10-12 (America/New_York)
-- Research leads: 34
-- Original or archived source files recovered in the local research workspace: 33
-- Exact passage anchors: 55
-- Human-accepted findings: 0
+Public, read-only research snapshot, October 13, 2026 UTC:
 
-The site presents source-backed candidate excerpts, publication and retrieval metadata, an institution comparison, timeline, discovery notes, citations, and downloadable exports. The **Compare colleges** view includes a panel summary: the current candidates show workflow and award-availability differences, but not comparable campus award dates. General aid deadlines and statewide processing dates remain separate. All 55 passages are machine-located; human-accepted findings: 0. Preserved PDFs now open in the continuous PDF.js viewer with exact passage highlights, zoom, page navigation and in-document search. HTML sources have inert full-text reading views with highlighted passages. Publisher and archive links remain available. Review, annotation, and correction controls are unavailable in this read-only edition; reviewer identities and audit history stay private. The full local research app retains the original source cache and append-only review history.
+- 101 document leads; 99 preserved sources.
+- 196 exact passage anchors; 188 pending findings, eight corrected, zero human-accepted.
 
-The `site/` directory is the Pages deployment artifact. GitHub Actions publishes it on pushes to `main`.
+The expanded evidence includes historical campus GPA/SAP review windows, general returning-student award calendars, BOT-specific processing order and transfer/renewal request deadlines. Every finding opens a highlighted passage in a preserved PDF or inert HTML reading view. Campus-wide aid rules, direct BOT evidence, statewide constraints, appeals, and new-versus-renewal awards remain distinct. Archive capture dates are not assigned as effective academic years.
 
-The 2018–19 and 2019–20 TAMIU pages have been recovered; only the Texas Tech strategic plan remains unrecovered. Reviewer identities and private review history are excluded from every public export.
+The comparison matrix, timeline, source discovery log, citations and downloadable exports use the same corpus. The PDF viewer supports original pagination, search and zoom. Navigation, empty filters, contextual discovery, failed searches, repeated HTML quotations and PDF line-end hyphens have regression checks.
+
+The exact Texas Tech 2014 strategic-plan lead and SWAU 2017–18 financial-information handout remain unresolved; separate archived 2009, 2011, 2015 and 2016 versions are preserved. Research coverage is a documented practical search, not proof that no other records exist or a complete institution-by-year census. See the research report for limitations.
+
+Reviewer identities, comments, private audit history, local paths, and writable review controls are excluded. The local research app retains immutable candidates and append-only history. Agent review does not confer human acceptance.
+
+`site/` is the GitHub Pages deployment artifact; Actions publishes it on pushes to `main`.

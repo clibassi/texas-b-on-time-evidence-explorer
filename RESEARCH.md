@@ -1,3 +1,5 @@
+> **Update:** The [external report evaluation and integration](REPORT-REVIEW.md) adds 21 exact findings and five preserved originals: 284 findings / 177 originals in 179 document records. Historical search results below are retained as the preceding phase.
+
 # Wider B-On-Time evidence search — October 13, 2026
 
 The wider search adds **73 preserved originals and 67 findings** to the preceding release. The corpus now contains **174 document records, 172 recovered sources, and 263 exact passage matches**. All findings remain research candidates: 253 pending, ten corrected, and none human accepted. The 196 baseline candidate records and eight review records remain unchanged.

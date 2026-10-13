@@ -4,8 +4,10 @@
 
 Public, read-only research snapshot, October 13, 2026 UTC:
 
-- 174 document records; 172 preserved sources (73 added in the wider search).
-- 263 exact passage anchors (67 added); 253 pending findings, ten corrected, zero human-accepted.
+- 179 document records; 177 preserved sources.
+- 284 exact passage anchors; 272 pending findings, twelve corrected, zero human-accepted.
+
+The [external research report evaluation](REPORT-REVIEW.md) adds 21 passages and five originals, with historical GPA definitions, an explicit THECB correction, and HelmNet processing constraints. Unsupported statewide and historical extrapolations are identified separately.
 
 The expanded evidence includes historical campus GPA/SAP review windows, general returning-student award calendars, BOT-specific processing order and transfer/renewal request deadlines. Every finding opens a highlighted passage in a preserved PDF or sandboxed source HTML view. Webpage sources retain their original HTML structure and available styling, with an explicitly labeled extracted-text fallback. Archived styles and images are preserved for the TCU pages where recoverable; incomplete assets are disclosed. Source scripts, forms and network requests are disabled. Campus-wide aid rules, direct BOT evidence, statewide constraints, appeals, and new-versus-renewal awards remain distinct. Archive capture dates are not assigned as effective academic years.
 

@@ -74,6 +74,222 @@ Anchor: exact; review: pending; scope: direct_bot.
 
 Internal link: /texas-b-on-time-evidence-explorer/?evidence=lee-current-no-participation
 
+## review-sao-2009-tested-sap · THECB · FY2006–FY2009 table; FY2008–FY2009 process audit
+
+SAO reports BOT SAP compliance among students tested
+
+> all students tested complied
+
+[An Audit Report on Selected State-funded Student Financial Aid Programs at Seven Higher Education Institutions and the Higher Education Coordinating Board](https://sao.texas.gov/Reports/Main/10-015.pdf#page=9) · PDF page 9 · printed page Unknown · retrieved 2026-10-13T03:36:09+00:00
+
+Anchor: exact; review: corrected; scope: direct_bot.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=review-sao-2009-tested-sap
+
+## review-tamiu-2016-institutional-gpa · TAMIU · Unknown
+
+Earlier archived TAMIU SAP policy also uses institutional GPA
+
+> Institutional GPA: Only courses taken at TAMIU are used for this calculation. This GPA is used for SAP calculation.
+
+[Satisfactory Academic Progress Policy (September2016 revision)](https://web.archive.org/web/20180821085738id_/http://www.tamiu.edu:80/finaid/SAPP.pdf#page=2) · PDF page 2 · printed page Unknown · retrieved 2026-10-13T02:38:52.630693+00:00
+
+Anchor: exact; review: pending; scope: general_institutional.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=review-tamiu-2016-institutional-gpa
+
+## review-tamiu-2019-institutional-gpa · TAMIU · 2019–20
+
+TAMIU 2019 SAP policy explicitly uses TAMIU coursework
+
+> Institutional GPA: Only courses taken at TAMIU are used for this calculation. This GPA is used for SAP calculation.
+
+[Satisfactory Academic Progress Policy](https://www.tamiu.edu/finaid/SAPP.pdf#page=2) · PDF page 2 · printed page Unknown · retrieved 2026-10-13T02:37:44.850048+00:00
+
+Anchor: exact; review: pending; scope: general_institutional.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=review-tamiu-2019-institutional-gpa
+
+## review-tamiu-2019-remedial-gpa · TAMIU · 2019–20
+
+TAMIU 2019 SAP excludes remedial courses from GPA but counts them for pace
+
+> Remedial Courses (Developmental): Remedial courses will not count towards GPA but it will count towards PACE and Maximum Time Frame calculations.
+
+[Satisfactory Academic Progress Policy](https://www.tamiu.edu/finaid/SAPP.pdf#page=2) · PDF page 2 · printed page Unknown · retrieved 2026-10-13T02:37:44.850048+00:00
+
+Anchor: exact; review: pending; scope: general_institutional.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=review-tamiu-2019-remedial-gpa
+
+## review-tamiu-html-transfer-gpa · TAMIU · Undated (retrieved 2026)
+
+Current TAMIU SAP summary refers to attempted and transferred hours for GPA
+
+> You must maintain a minimum cumulative GPA as determined at the end of each semester for all credit hours attempted and transferred to TAMIU.
+
+[Satisfactory Academic Progress (current HTML summary)](https://www.tamiu.edu/finaid/satisfactory-academic-progress-sap.shtml#:~:text=You%20must%20maintain%20a%20minimum%20cumulative%20GPA%20as%20determined%20at%20the%20end%20of%20each%20semester%20for%20all%20credit%20hours%20attempted%20and%20transferred%20to%20TAMIU.) · PDF page n/a · printed page Unknown · retrieved 2026-10-13T19:22:36.068196+00:00
+
+Anchor: exact; review: pending; scope: general_institutional.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=review-tamiu-html-transfer-gpa
+
+## review-tcu-2009-cross-institution-repeat · TCU · 2009–10
+
+TCU cross-institution repeat policy uses the TCU grade
+
+> If a course is taken at TCU and then repeated at another institution, or if a course is taken at another institution and then repeated at TCU, only the grade earned at TCU is used to compute the student's GPA.
+
+[Undergraduate Catalog](https://registrar.tcu.edu/catalogs/2009-10_Undergraduate_Catalog.pdf#page=38) · PDF page 38 · printed page Unknown · retrieved 2026-10-12T23:23:56.675257+00:00
+
+Anchor: exact; review: pending; scope: general_institutional.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=review-tcu-2009-cross-institution-repeat
+
+## review-tcu-2009-gpa-universe · TCU · 2009–10
+
+TCU catalog defines cumulative GPA using work attempted at TCU
+
+> Two GPAs are maintained by Texas Christian University: 1) a semester average based on courses taken at TCU during a particular term, and 2) a cumulative average based on all work attempted at TCU.
+
+[Undergraduate Catalog](https://registrar.tcu.edu/catalogs/2009-10_Undergraduate_Catalog.pdf#page=38) · PDF page 38 · printed page Unknown · retrieved 2026-10-12T23:23:56.675257+00:00
+
+Anchor: exact; review: pending; scope: general_institutional.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=review-tcu-2009-gpa-universe
+
+## review-tcu-2009-pnc-exclusion · TCU · 2009–10
+
+TCU excludes pass/no-credit courses from GPA
+
+> These P/NC courses are not counted in computing the student's GPA.
+
+[Undergraduate Catalog](https://registrar.tcu.edu/catalogs/2009-10_Undergraduate_Catalog.pdf#page=37) · PDF page 37 · printed page Unknown · retrieved 2026-10-12T23:23:56.675257+00:00
+
+Anchor: exact; review: pending; scope: general_institutional.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=review-tcu-2009-pnc-exclusion
+
+## review-tcu-2009-repeat-last · TCU · 2009–10
+
+TCU repeat policy uses the last letter grade earned
+
+> If a course taken at TCU is repeated at TCU, the official grade is the last letter grade made, although all grades appear on the transcript. Only the last letter grade earned in the repeated course will be used in computing the GPA.
+
+[Undergraduate Catalog](https://registrar.tcu.edu/catalogs/2009-10_Undergraduate_Catalog.pdf#page=38) · PDF page 38 · printed page Unknown · retrieved 2026-10-12T23:23:56.675257+00:00
+
+Anchor: exact; review: pending; scope: general_institutional.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=review-tcu-2009-repeat-last
+
+## review-tcu-2009-study-abroad-gpa · TCU · 2009–10
+
+TCU permits qualifying study-abroad grades to enter official TCU GPA
+
+> Students have the option as to whether or not the courses taken during the foreign study will be used to meet residency requirements, in which case the grades in these courses are computed in the official TCU GPA.
+
+[Undergraduate Catalog](https://registrar.tcu.edu/catalogs/2009-10_Undergraduate_Catalog.pdf#page=38) · PDF page 38 · printed page Unknown · retrieved 2026-10-12T23:23:56.675257+00:00
+
+Anchor: exact; review: pending; scope: general_institutional.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=review-tcu-2009-study-abroad-gpa
+
+## review-tcu-2009-transfer-exclusion · TCU · 2009–10
+
+TCU transfer credit does not enter its cumulative GPA
+
+> hours may satisfy degree requirements but are not used in the calculation of the cumulative GPA.
+
+[Undergraduate Catalog](https://registrar.tcu.edu/catalogs/2009-10_Undergraduate_Catalog.pdf#page=38) · PDF page 38 · printed page Unknown · retrieved 2026-10-12T23:23:56.675257+00:00
+
+Anchor: exact; review: corrected; scope: general_institutional.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=review-tcu-2009-transfer-exclusion
+
+## review-twu-2009-planned-forgiveness-report · THECB · FY2006–FY2009 table; FY2008–FY2009 process audit
+
+TWU planned an automated report for BOT forgiveness review
+
+> The review process for determining eligibility for BOT Loan forgiveness will be strengthened through the development of an automated report to accurately calculate a BOT borrower’s time enrolled, credit hours taken, and cumulative grade point average.
+
+[An Audit Report on Selected State-funded Student Financial Aid Programs at Seven Higher Education Institutions and the Higher Education Coordinating Board](https://sao.texas.gov/Reports/Main/10-015.pdf#page=16) · PDF page 16 · printed page Unknown · retrieved 2026-10-13T03:36:09+00:00
+
+Anchor: exact; review: pending; scope: direct_bot.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=review-twu-2009-planned-forgiveness-report
+
+## review-unt-2013-repeat-gpa-distinction · UNT · 2013–14
+
+UNT historical catalog distinguishes highest departmental grade from last graduation grade
+
+> Departments may count the highest grade for departmental GPA requirements; however, the academic dean uses only the last grade recorded in certifying the student’s eligibility for graduation.
+
+[Undergraduate Catalog 2013-2014](https://catalog.unt.edu/mime/media/view/9/810/2013-14_UNT_undergraduate_catalog.pdf#page=32) · PDF page 32 · printed page Unknown · retrieved 2026-10-13T02:34:33.154371+00:00
+
+Anchor: exact; review: pending; scope: general_institutional.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=review-unt-2013-repeat-gpa-distinction
+
+## review-unt-2013-repeat-posting · UNT · 2013–14
+
+UNT includes repeated coursework until duplication is posted
+
+> Until a duplication is posted the Registrar’s Office includes a repeated course in the student’s cumulative record of hours attempted and grade points earned.
+
+[Undergraduate Catalog 2013-2014](https://catalog.unt.edu/mime/media/view/9/810/2013-14_UNT_undergraduate_catalog.pdf#page=32) · PDF page 32 · printed page Unknown · retrieved 2026-10-13T02:34:33.154371+00:00
+
+Anchor: exact; review: pending; scope: general_institutional.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=review-unt-2013-repeat-posting
+
+## review-unt-2013-resident-cgpa · UNT · 2013–14
+
+UNT 2013–14 academic-standing CGPA uses resident grade points and hours
+
+> The CGPA upon which academic standards are based is calculated by dividing the total number of grade points earned in residence at UNT by the total number of semester credit hours (SCH) attempted in residence at UNT.
+
+[Undergraduate Catalog 2013-2014](https://catalog.unt.edu/mime/media/view/9/810/2013-14_UNT_undergraduate_catalog.pdf#page=31) · PDF page 31 · printed page Unknown · retrieved 2026-10-13T02:34:33.154371+00:00
+
+Anchor: exact; review: pending; scope: general_institutional.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=review-unt-2013-resident-cgpa
+
+## review-unt-current-first-duplication · UNT · Undated (retrieved 2026)
+
+Current UNT page limits grade removal to the first course attempt
+
+> Only the first course attempt can be removed from your GPA, additional attempts are called "repeats" and are averaged into your GPA.
+
+[Calculating your GPA (current surviving page)](https://vpaa.unt.edu/advising/gpa/calculations.html#:~:text=Only%20the%20first%20course%20attempt%20can%20be%20removed%20from%20your%20GPA%2C%20additional%20attempts%20are%20called%20%22repeats%22%20and%20are%20averaged%20into%20your%20GPA.) · PDF page n/a · printed page Unknown · retrieved 2026-10-13T19:22:35.814350+00:00
+
+Anchor: exact; review: pending; scope: general_institutional.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=review-unt-current-first-duplication
+
+## review-unt-current-highest-repeat · UNT · Undated (retrieved 2026)
+
+Current UNT advising page says highest grade is used for duplication
+
+> The highest grade will be included when calculating your UNT GPA and toward degree applicability.
+
+[Calculating your GPA (current surviving page)](https://vpaa.unt.edu/advising/gpa/calculations.html#:~:text=The%20highest%20grade%20will%20be%20included%20when%20calculating%20your%20UNT%20GPA%20and%20toward%20degree%20applicability.) · PDF page n/a · printed page Unknown · retrieved 2026-10-13T19:22:35.814350+00:00
+
+Anchor: exact; review: pending; scope: general_institutional.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=review-unt-current-highest-repeat
+
+## review-unt-current-two-gpas · UNT · Undated (retrieved 2026)
+
+Current UNT advising page distinguishes UNT-only and overall GPA
+
+> You will have a UNT GPA averaging only UNT classes and an Overall GPA averaging UNT and transfer work.
+
+[About Your GPA (current surviving page)](https://vpaa.unt.edu/advising/gpa/index.html#:~:text=You%20will%20have%20a%20UNT%20GPA%20averaging%20only%20UNT%20classes%20and%20an%20Overall%20GPA%20averaging%20UNT%20and%20transfer%20work.) · PDF page n/a · printed page Unknown · retrieved 2026-10-13T19:22:35.186377+00:00
+
+Anchor: exact; review: pending; scope: general_institutional.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=review-unt-current-two-gpas
+
 ## sb4-2003-effective · Texas Legislature · 2003
 
 BOT establishing legislation effective June 20, 2003
@@ -1178,6 +1394,18 @@ Anchor: exact; review: pending; scope: statewide.
 
 Internal link: /texas-b-on-time-evidence-explorer/?evidence=thecb-2018-account-credit
 
+## thecb-2018-bot-150-hour-correction · THECB · 2018–19
+
+THECB notified institutions that its August 22, 2018 BOT guidelines incorrectly described the 150-hour continuation-eligibility cutoff as total attempted hours, and replaced that wording with the TAC 22.333(c) formulation limiting the number of BOT loan hours received.
+
+> The BOT guidelines contain an error in the Discontinuation of Eligibility section which states, “After a student has attempted 150 semester credit hours (SCH), the student is no longer eligible for a BOT award.” This language is incorrect and does not align with Texas Administrative Code, 22.333(c) rule, relating to Continued Eligibility for Loans. The guidelines have been corrected to reflect the rule language and this section now reads, “A student may not receive a Texas B-On-Time loan for more than 150 semester credit hours or the equivalent.”
+
+[SFAP Program 2018-19 Guidelines Corrections - Notification](https://reportcenter.highered.texas.gov/correspondence/departmental-correspondence/student-financial-aid-programs-2018-19-program-guidelines-corrections-notification/#page=1) · PDF page 1 · printed page 1 · retrieved 2026-10-13
+
+Anchor: exact; review: pending; scope: statewide.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=thecb-2018-bot-150-hour-correction
+
 ## thecb-2018-certification-deadline · THECB · 2018–19
 
 Allocated BOT funds must be certified by February 20
@@ -1513,6 +1741,30 @@ BOT SAP assessed at academic-year end
 Anchor: exact; review: pending; scope: statewide.
 
 Internal link: /texas-b-on-time-evidence-explorer/?evidence=thecb-2020-year-end-sap
+
+## thecb-helmnet-bot-11-business-day-wait-2020 · THECB · 2020
+
+The 2020 HelmNet manual's Pending Future Disbursements report describes a minimum 11-business-day interval from borrower acceptance of the LAD to the pending disbursement date.
+
+> The Pending Disbursement Date is at least 11 business days from the date the LAD was accepted, which may differ from the institution’s entry.
+
+[HelmNet Online Reporting](https://reportcenter.highered.texas.gov/agency-publication/guidelines-manuals/helmnet-online-reporting-manual/#page=9) · PDF page 9 · printed page 8 · retrieved 2026-10-13
+
+Anchor: exact; review: pending; scope: statewide.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=thecb-helmnet-bot-11-business-day-wait-2020
+
+## thecb-helmnet-bot-allocation-lad-hold-2020 · THECB · 2020
+
+In the August 2020 HelmNet reporting manual, THECB identified school-certified applications awaiting allocation as a separate report category and stated that the Loan Approval Disclosure was not generated until funding was available.
+
+> Private Education Loan Approval Disclosure (LAD) is not generated until funding is available.
+
+[HelmNet Online Reporting](https://reportcenter.highered.texas.gov/agency-publication/guidelines-manuals/helmnet-online-reporting-manual/#page=6) · PDF page 6 · printed page 5 · retrieved 2026-10-13
+
+Anchor: exact; review: pending; scope: statewide.
+
+Internal link: /texas-b-on-time-evidence-explorer/?evidence=thecb-helmnet-bot-allocation-lad-hold-2020
 
 ## thecb-usage-2017-abilene-row · THECB · 2017–18
 

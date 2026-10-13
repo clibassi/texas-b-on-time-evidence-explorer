@@ -46,3 +46,7 @@ The local research inventory and request/avenue ledgers are under `data/wide-sea
 Staged verification: all 67 newly added findings open their correct highlighted originals; 15 public workflow regressions pass, including empty filters, source navigation, retryable search errors, scanned-source search and rotated-page search. The strict integrity check reports 263 exact anchors and no issues. All public PDF hashes match preserved originals, and the public privacy audit finds no private review fields or local paths. The backend has 25 passing tests and the frontend has 124. Both application builds pass. Existing viewer regression and live deployment checks are recorded at release time.
 
 Final synthesis corrected two stale inspection caveats through append-only metadata corrections: UT Dallas rendering was visually verified, and the FY2020 private-usage official PDF was recovered and inspected. No quotation, source bytes, or baseline review record changed.
+
+## Original webpage display
+
+Webpage sources now open in a sandboxed HTML viewer with highlighted source passages, retaining headings, tables, page structure and available styling. The 72 views derive from the unchanged preserved HTML files; all 86 HTML-source findings pass full-quotation highlight checks. Sixteen archived TCU stylesheets/images were recovered. Missing assets are disclosed, and no pixel-exact reconstruction is claimed. Extracted text remains a separate reading aid; finding titles and research notes are explicitly labeled as our summaries. Original PDFs remain unchanged.

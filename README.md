@@ -2,7 +2,7 @@
 
 [Open the explorer](https://clibassi.github.io/texas-b-on-time-evidence-explorer/) · [Research findings](RESEARCH.md)
 
-Public, read-only research snapshot, October 13, 2026 UTC:
+Public research snapshot with a shared filing cabinet, October 13, 2026 UTC:
 
 - 179 document records; 177 preserved sources.
 - 284 exact passage anchors; 272 pending findings, twelve corrected, zero human-accepted.
@@ -20,3 +20,11 @@ Reviewer identities, comments, private audit history, local paths, and writable 
 `site/` is the GitHub Pages deployment artifact; Actions publishes it on pushes to `main`.
 
 The timeline has separate university/office, academic-year or stated-period, and date-availability selectors. Filter for exact day/month dates, any stated timing, or no stated timing. Matching sources for an institution and year are combined; unknown-year sources remain separate. Timeline filters are retained in shareable URLs.
+
+## Reading and shared saves
+
+The source-first viewer puts source browsing behind **Browse sources**, analysis views and exports under **Tools**, and corpus context under **About**. **Focus reading** expands the original PDF or preserved webpage. Finding details and source metadata remain available on demand.
+
+The **Filing cabinet** is shared by everyone with the site link. Readers can save findings or documents, organize folders, add notes, export a backup, and move items to recoverable trash. Saving does not accept or modify a research finding. Concurrent note edits retain local drafts and reject stale saves. Shared notes should contain no private information.
+
+Cabinet storage runs as a separate Railway service with a persistent SQLite volume; the research snapshot and original source files remain read-only. The viewer reports connection and save failures instead of silently falling back to browser-local storage.

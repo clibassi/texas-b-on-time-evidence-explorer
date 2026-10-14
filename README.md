@@ -32,3 +32,5 @@ Cabinet storage runs as a separate Railway service with a persistent SQLite volu
 ## Direct-hit ranking
 
 The original document viewer includes a direct-hit sorting control in its right-hand findings panel. Scores prioritize explicit BOT GPA-assessment dates, then appeals and other dated BOT steps, relative timing, undated BOT procedures, statewide constraints, and general campus aid/SAP context. Each finding explains its score. Switch to Source order to read passages in document order. Publication dates do not become decision dates, and scores do not confer human acceptance.
+
+The document library also offers Document direct hit (highest passage score per document) and Institution direct hit (institutions grouped by their best matching document, then documents ranked within each institution). Rankings respect the library filters and are relevance scores, not match rates.

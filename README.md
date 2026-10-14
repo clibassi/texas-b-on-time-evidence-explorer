@@ -28,3 +28,7 @@ The source-first viewer puts source browsing behind **Browse sources**, analysis
 The **Filing cabinet** is shared by everyone with the site link. Readers can save findings or documents, organize folders, add notes, export a backup, and move items to recoverable trash. Saving does not accept or modify a research finding. Concurrent note edits retain local drafts and reject stale saves. Shared notes should contain no private information.
 
 Cabinet storage runs as a separate Railway service with a persistent SQLite volume; the research snapshot and original source files remain read-only. The viewer reports connection and save failures instead of silently falling back to browser-local storage.
+
+## Direct-hit ranking
+
+[Rank all findings](https://clibassi.github.io/texas-b-on-time-evidence-explorer/?view=ranked) by relevance to a dated university BOT decision timeline. Scores prioritize explicit BOT GPA-assessment dates, then appeals and other dated BOT steps, relative timing, undated BOT procedures, statewide constraints, and general campus aid/SAP context. The view explains the rubric and each score. Source lists use the best passage score; saved cabinet items use the same measure. Publication dates do not become decision dates, and the scores do not confer human acceptance. No current passage earns the reserved 100-point BOT GPA-date score.
